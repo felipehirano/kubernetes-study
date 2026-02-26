@@ -6,7 +6,7 @@ O objetivo é entender como cada componente interage dentro do cluster.
 
 Fluxo para entender a arquitetura do K8S( Esse diagrama mostra a arquitetura de um cluster):
 
-![architecture](../../images/kubernetes-architecture.png)
+![architecture](../../../images/kubernetes-architecture.png)
 
 ---
 
