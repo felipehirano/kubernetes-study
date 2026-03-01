@@ -1,0 +1,11 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "A simple node app in Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
